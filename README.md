@@ -4,3 +4,4 @@ Lista 1 de exercícios na matéria de Programação Estruturada
 - Matriz
 - Funções
 - Files
+- Ponteiros
